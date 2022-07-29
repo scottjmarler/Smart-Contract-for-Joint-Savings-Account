@@ -54,11 +54,29 @@ To automate the creation of joint savings accounts, I created a Solidity smart c
 
 ## Smart Contract Functionality Screen Shots
 
+# Defined Authorized Ethereum Addresses
 
+![step_1](https://user-images.githubusercontent.com/96508083/181818185-f3921ad6-e48a-40b4-90d3-ad8faa6006e4.png)
 
+# Sent 1 Ether as Wei
 
+![step_2_1](https://user-images.githubusercontent.com/96508083/181818192-964612bf-fceb-42df-b748-f3ee8ab4e9c1.png)
 
+# Sent 10 Ether as Wei
 
+![step_2_2](https://user-images.githubusercontent.com/96508083/181818211-760ad86d-0320-459e-a32b-6f32d7ac13a2.png)
+
+# Sent 5 Ether
+
+![step_2_3](https://user-images.githubusercontent.com/96508083/181818216-f8daf650-c734-4857-a1ac-a70ffe40ba50.png)
+
+# Withdrew 5 Ether into Account 1
+
+![step_3_1](https://user-images.githubusercontent.com/96508083/181818329-7df2a61d-9e02-4864-b59c-2c65bea7def8.png)
+
+# Withdrew 10 Ether into Account 2
+
+![step_3_2](https://user-images.githubusercontent.com/96508083/181818342-c3193767-ab71-4328-9e93-4e454247bb48.png)
 
 
 
